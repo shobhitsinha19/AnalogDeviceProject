@@ -32,3 +32,5 @@ A script is provided inside the backend directory which can take multiple github
   * app.py - Server
   * script.py - Script
 
+# Note
+Please note that some of the data seen in the screenshot are fabricated to show features like search and pagination. 
